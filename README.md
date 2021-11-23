@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning php and laravel 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...peterkiilu203@gmail.com 
+-                        +254 798 279975
 
 <!---
 peterkiilu/peterkiilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
